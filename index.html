@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sanjeevan S — Cybersecurity Professional</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8;--glass: rgba(255,255,255,0.03)}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,ui-sans-serif,system-ui,Segoe UI,Roboto,'Helvetica Neue',Arial;color:#e6eef6;background:linear-gradient(180deg,#081025 0%,var(--bg) 100%);-webkit-font-smoothing:antialiased}
+    .wrapper{max-width:980px;margin:48px auto;padding:28px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border-radius:14px;box-shadow:0 8px 30px rgba(2,6,23,0.6)}
+    header{display:flex;gap:20px;align-items:center}
+    .avatar{width:120px;height:120px;border-radius:14px;background:linear-gradient(135deg,#081826,#0b2b3a);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:34px;color:var(--accent);border:1px solid rgba(255,255,255,0.04)}
+    h1{margin:0;font-size:28px}
+    h2{margin:6px 0 0 0;font-size:14px;color:var(--muted);font-weight:600}
+    .intro{margin-top:18px;display:grid;grid-template-columns:1fr 320px;gap:22px}
+    .card{background:var(--card);padding:18px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
+    p.lead{margin:0;color:#dbeef8;line-height:1.6}
+    ul.skills{display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:12px 0 0 0;list-style:none}
+    ul.skills li{background:var(--glass);padding:8px 10px;border-radius:999px;font-size:13px;color:var(--muted);border:1px solid rgba(255,255,255,0.02)}
+    .meta{display:flex;flex-direction:column;gap:12px}
+    .stat{display:flex;justify-content:space-between;align-items:center}
+    .stat strong{font-size:18px;color:#fff}
+    .projects{display:grid;grid-template-columns:1fr;gap:12px;margin-top:12px}
+    .project{padding:12px;border-radius:10px;background:linear-gradient(180deg,rgba(255,255,255,0.015),transparent);border:1px solid rgba(255,255,255,0.02)}
+    .muted{color:var(--muted);font-size:13px}
+    a.cta{display:inline-block;padding:10px 14px;border-radius:9px;background:linear-gradient(90deg,var(--accent),#3b82f6);color:#021226;text-decoration:none;font-weight:700}
+    footer{margin-top:18px;text-align:center;color:var(--muted);font-size:13px}
+    @media (max-width:880px){.intro{grid-template-columns:1fr;}.avatar{width:92px;height:92px;font-size:28px}}
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <div class="avatar">SS</div>
+      <div>
+        <h1>Sanjeevan S</h1>
+        <h2>Cybersecurity Professional • Offensive Security & Threat Hunting</h2>
+        <div style="margin-top:8px">
+          <a class="cta" href="#contact">Contact</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="intro">
+      <div class="card">
+        <h3 style="margin-top:0">About me</h3>
+        <p class="lead">Hi — I'm <strong>Sanjeevan S</strong>, a passionate cybersecurity professional with hands-on experience in penetration testing, incident response, vulnerability management, and threat hunting. I help organisations identify weaknesses before attackers do and build pragmatic defenses that scale. My approach balances offensive techniques with measurable risk reduction.</p>
+
+        <h4 style="margin-top:14px;margin-bottom:6px">Core strengths</h4>
+        <ul class="skills">
+          <li>Penetration Testing</li>
+          <li>Red Teaming</li>
+          <li>Threat Hunting</li>
+          <li>SIEM & Log Analysis</li>
+          <li>Cloud Security (AWS/GCP)</li>
+          <li>Vulnerability Management</li>
+          <li>Incident Response</li>
+          <li>Scripting (Python/Bash)</li>
+        </ul>
+
+        <h4 style="margin-top:14px;margin-bottom:6px">Technical highlights</h4>
+        <div class="projects">
+          <div class="project">
+            <strong>Enterprise Threat Hunt</strong>
+            <div class="muted">Built a threat-hunting program using Sigma rules, custom detections and automated playbooks that reduced MTTD by 45%.</div>
+          </div>
+
+          <div class="project">
+            <strong>Cloud Security Assessment</strong>
+            <div class="muted">Performed security assessments for multi-account AWS environments identifying critical IAM misconfigurations and automated remediation workflows.</div>
+          </div>
+
+          <div class="project">
+            <strong>Red Team Engagement</strong>
+            <div class="muted">Delivered end-to-end red team exercises focused on persistence, lateral movement and data exfiltration scenarios with prioritized remediation reports.</div>
+          </div>
+        </div>
+
+      </div>
+
+      <aside class="meta">
+        <div class="card">
+          <div class="stat"><span class="muted">Location</span><strong>Chennai, India</strong></div>
+          <div class="stat"><span class="muted">Experience</span><strong>4+ years</strong></div>
+          <div class="stat"><span class="muted">Certifications</span><strong>OSCP • CEH • CompTIA Security+</strong></div>
+        </div>
+
+        <div class="card">
+          <h4 style="margin:0 0 8px 0">Contact</h4>
+          <div class="muted">Email</div>
+          <div style="margin-bottom:8px"><strong>sanjeevan.s@example.com</strong></div>
+          <div class="muted">LinkedIn</div>
+          <div><a href="#" style="color:var(--accent);text-decoration:none">linkedin.com/in/sanjeevan-s</a></div>
+        </div>
+
+        <div class="card">
+          <h4 style="margin:0 0 8px 0">Tools & Platforms</h4>
+          <ul class="skills" style="margin:0">
+            <li>Metasploit</li>
+            <li>Nmap</li>
+            <li>Burp Suite</li>
+            <li>Splunk</li>
+            <li>Elastic</li>
+            <li>AWS</li>
+          </ul>
+        </div>
+
+      </aside>
+    </div>
+
+    <section style="margin-top:18px" class="card">
+      <h3 style="margin-top:0">Summary (elevator pitch)</h3>
+      <p class="muted">I combine offensive testing techniques with practical security engineering to reduce risk. If you need someone who can both find complex attack paths and help your team implement lasting controls, I’m the person to call.</p>
+    </section>
+
+    <section id="contact" style="margin-top:14px" class="card">
+      <h3 style="margin-top:0">Get in touch</h3>
+      <p class="muted">Feel free to reach out for consulting, freelance engagements, or collaboration on security tooling and detection engineering.</p>
+      <div style="margin-top:10px">
+        <a class="cta" href="mailto:sanjeevans805@gmail.com.com">Email</a>
+        <a class="cta" href=https://www.linkedin.com/in/sanjeevan-s-b0077a380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+        <a class="cta" href="blog.html">blog</a>
+      </div>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Sanjeevan S — Cybersecurity Professional
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

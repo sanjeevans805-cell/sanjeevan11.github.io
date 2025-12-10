@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Solo Trip to Singapore – December 2025</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            background: #fafafa;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #d32f2f;
+            font-size: 2.6rem;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            font-style: italic;
+            color: #666;
+            margin-bottom: 50px;
+        }
+        h2 {
+            color: #d32f2f;
+            border-bottom: 2px solid #ffcccc;
+            padding-bottom: 8px;
+            margin-top: 50px;
+        }
+        .highlight {
+            background: #fff3e0;
+            padding: 15px;
+            border-left: 5px solid #ff9800;
+            margin: 25px 0;
+            border-radius: 0 8px 8px 0;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 12px;
+            margin: 25px 0;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+        .caption {
+            text-align: center;
+            font-style: italic;
+            color: #777;
+            margin-top: -15px;
+            margin-bottom: 30px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 80px;
+            padding: 30px;
+            background: #333;
+            color: white;
+            border-radius: 12px;
+        }
+        .heart {
+            color: #e91e63;
+            font-size: 1.4em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>My Solo Trip to Singapore</h1>
+    <p class="subtitle">7 Days of Food, Wonders & Pure Bliss – December 2025</p>
+
+    <h2>Day 0 – The Arrival</h2>
+    <p>
+        Landed at Changi Airport at 6:15 a.m. on 2nd December 2025. The second I saw the Rain Vortex (the world’s tallest indoor waterfall), I knew this trip was going to be special. 
+        Grabbed a tourist SIM, took the MRT, and reached Marina Bay by 8 a.m. Singapore smells like clean rain and frangipani flowers.
+    </p>
+
+    <h2>Day 1 – Living the Postcard Life</h2>
+    <p>
+        Checked into <strong>Marina Bay Sands</strong> (yes, I splurged for 3 nights). Went straight to the infinity pool on the 57th floor. Swimming while the sunrise painted the skyline pink and gold — unreal.
+    </p>
+    <p>Evening highlights:</p>
+    <ul>
+        <li>Gardens by the Bay (Cloud Forest + Flower Dome)</li>
+        <li>Supertree Grove light & sound show</li>
+        <li>Dinner at Satay Street (Lau Pa Sat) – 20 chicken + mutton satay sticks with peanut sauce for just S$14</li>
+    </ul>
+    <p class="caption">Infinity pool sunrise – no filter needed</p>
+
+    <h2>Day 2 – Marina Bay Loop</h2>
+    <p>Walked the entire bay: Merlion → Helix Bridge → ArtScience Museum → Esplanade. Ended with the Spectra light & water show and another sunset swim at the rooftop pool.</p>
+
+    <h2>Day 3 – Culture Overload</h2>
+    <p>Moved to a boutique hotel in Kampong Glam (cheaper + way more soul).</p>
+    <ul>
+        <li><strong>Little India</strong> – masala dosa breakfast at Komala Vilas, jasmine garlands everywhere</li>
+        <li><strong>Haji Lane & Arab Street</strong> – iced kopi, kaya toast, Sultan Mosque golden dome</li>
+        <li><strong>Chinatown</strong> – Tian Tian Chicken Rice at Maxwell (40-min queue, worth it), finished with durian pengat</li>
+    </ul>
+
+    <h2>Day 4 – Sentosa the Chill Way</h2>
+    <p>Skipped Universal Studios. Cable car → Palawan Beach → suspension bridge to “Southernmost Point of Continental Asia” → fresh coconut → book → nap under palm trees. Perfect.</p>
+
+    <h2>Day 5 – Pulau Ubin (Absolute Highlight)</h2>
+    <div class="highlight">
+        <p>Took a S$3 bumboat from Changi Point. Rented a bicycle for S$10. Cycled through jungle trails, saw wild boars and monitor lizards, drank fresh coconut at a kampong stall, ate the best chilli crab & black pepper crab of my life. Felt like stepping back into 1970s Singapore. Zero crowds. 100% magic.</p>
+    </div>
+
+    <h2>Day 6 – Nature & Sunset</h2>
+    <p>Morning at Singapore Botanic Gardens (free & UNESCO). Afternoon Southern Ridges walk – Henderson Waves at golden hour. Evening at Clarke Quay – one final round of chilli crab (fourth time this trip, zero regrets).</p>
+
+    <
+
+    <h2>Day 7 – Goodbye Singapore</h2>
+    <p>Spent last hours at Jewel Changi – breakfast overlooking the Rain Vortex. Bought pandan cakes, kaya jam, and chilli crab paste. Boarded the flight with a heavy bag and heavier heart.</p>
+
+    <
+
+    <h2>Money Breakdown (from India)</h2>
+    <ul>
+        <li>Round-trip flights: ₹32,000</li>
+        <li>Hotels (3 nights MBS + 4 nights boutique): ₹68,000</li>
+        <li>Food, MRT, attractions: ₹40,000</li>
+        <li><strong>Total ≈ ₹1.4 lakh</strong></li>
+    </ul>
+
+    <h2>Final Thoughts</h2>
+    <p>
+        Singapore is clean, safe, and organised – everyone knows that.<br>
+        But it’s also warm, colourful, ridiculously delicious, and full of heart.<br>
+        I travelled alone but never felt lonely. People smile, help, and say “good morning” like they mean it.
+    </p>
+    <p style="text-align:center; font-size:1.4em;">
+        Already saving for round two.</p>
+
+    <footer>
+        <p>Singapore, you have my heart <span class="heart">❤️</span></p>
+        <p>— Arjun<br>December 2025</p>
+    </footer>
+
+</body>
+</html>
